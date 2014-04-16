@@ -40,8 +40,8 @@ a.nav:visited{
 }
 
 a.nav:hover{
-	color: blue;
-	text-decoration: underline;
+	color: black;
+	/*text-decoration: underline;*/
 }
 
 
