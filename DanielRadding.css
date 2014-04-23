@@ -1,22 +1,22 @@
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:300);
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:300);
 
 #Top{
 	z-index:1;
-	font-family: Open Sans;
+	font-family: Ubuntu;
     font-size:60px;
 	text-align: center;
 	color: #0eca20;
     position: absolute;
     left: 5%;
-    top: 35%;
+    top: 33%;
 	}
 
 #Bar{
 	z-index: 2;
-	font-family: Open Sans;
-	font-size:27px;
+	font-family: Ubuntu;
+	font-size:25px;
 	text-align: center;
-	color: #0eca20;
+	color: Black;
     position: absolute;
     left: 5%;
     top: 50%;
@@ -32,12 +32,12 @@
 }*/
 
 a.nav{
-	color: #33FF33;
+	color: #0eca20;
 	text-decoration: none;
 }
 
 a.nav:visited{
-	color: #33FF33;
+	color: #0eca20;
 	text-decoration: none;
 }
 
