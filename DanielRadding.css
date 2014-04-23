@@ -1,6 +1,8 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300);
+
 #Top{
 	z-index:1;
-	font-family: Arial;
+	font-family: Open Sans;
     font-size:50px;
 	text-align: center;
 	color: cadetblue;
@@ -11,7 +13,7 @@
 
 #Bar{
 	z-index: 2;
-	font-family: Arial;
+	font-family: Open Sans;
 	font-size:20px;
 	text-align: center;
 	color: cadetblue;
@@ -43,5 +45,3 @@ a.nav:hover{
 	color: black;
 	/*text-decoration: underline;*/
 }
-
-
