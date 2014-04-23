@@ -3,23 +3,23 @@
 #Top{
 	z-index:1;
 	font-family: Open Sans;
-    font-size:50px;
+    font-size:60px;
 	text-align: center;
-	color: cadetblue;
+	color: #0eca20;
     position: absolute;
-    left: 10%;
-    top: 45%;
+    left: 5%;
+    top: 35%;
 	}
 
 #Bar{
 	z-index: 2;
 	font-family: Open Sans;
-	font-size:20px;
+	font-size:27px;
 	text-align: center;
-	color: cadetblue;
+	color: #0eca20;
     position: absolute;
-    left: 10%;
-    top: 60%;
+    left: 5%;
+    top: 50%;
 }
 
 /*#Bottom {
@@ -32,12 +32,12 @@
 }*/
 
 a.nav{
-	color: cadetblue;
+	color: #33FF33;
 	text-decoration: none;
 }
 
 a.nav:visited{
-	color: cadetblue;
+	color: #33FF33;
 	text-decoration: none;
 }
 
